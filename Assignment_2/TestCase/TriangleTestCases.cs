@@ -8,7 +8,7 @@ using NUnit.Framework;
 
 
 namespace TestCase
-{//test cases for triangle
+{
     [TestFixture]
     public class TriangleTestCases
     {
